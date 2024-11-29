@@ -144,7 +144,5 @@ function PrintYear($year){
 
 PrintYear($year)
 ?>
-
-
 </body>
 </html>
