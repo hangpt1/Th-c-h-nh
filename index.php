@@ -142,7 +142,8 @@ function PrintYear($year){
     }
 }
 
-PrintYear($year)
+PrintYear($year);
+echo ('hjdwdvwe');
 ?>
 </body>
 </html>
