@@ -144,6 +144,8 @@ function PrintYear($year){
 
 PrintYear($year);
 echo ('hjdwdvwe');
+PrintYear($year);
+echo("xin chao");
 ?>
 </body>
 </html>
