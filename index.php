@@ -143,6 +143,7 @@ function PrintYear($year){
 }
 
 PrintYear($year)
+echo("xin chao")
 ?>
 </body>
 </html>
